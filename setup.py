@@ -1,7 +1,9 @@
 from setuptools import setup
 
-setup(name='distributions',
+setup(name='mengheng_probability',
       version='0.1',
-      description='Gaussian distributions',
-      packages=['distributions'],
+      description='Gaussian and Binomial distributions',
+      packages=['mengheng_probability'],
+      author='Mengheng Xue',
+      author_email='mx586@nyu.edu',
       zip_safe=False)
